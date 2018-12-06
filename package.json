@@ -1,0 +1,25 @@
+{
+  "name": "meadowlarktravel",
+  "version": "1.0.0",
+  "description": "Meadowlark Travel website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanRother/DevNodeExpress.git"
+  },
+  "keywords": [
+    "meadowlark"
+  ],
+  "author": "Dean Rother",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeanRother/DevNodeExpress/issues"
+  },
+  "homepage": "https://github.com/DeanRother/DevNodeExpress#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
